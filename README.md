@@ -45,13 +45,13 @@ An interactive **Power BI dashboard** was built to visualize insights and suppor
 
 ##  Dashboard Features (Power BI)
 
-### 🔹 KPIs
+###  KPIs
 
-* ⭐ Average Rating
-* 📥 Total Installs
-* 📱 Total Apps
-* 📝 Total Reviews
-* 💰 Revenue Potential
+*  Average Rating
+*  Total Installs
+*  Total Apps
+*  Total Reviews
+*  Revenue Potential
 
 ---
 
@@ -77,12 +77,12 @@ An interactive **Power BI dashboard** was built to visualize insights and suppor
 
 ##  Key Insights
 
-* ⭐ Majority of apps are **free (~90%)**
-* ⭐ Ratings are mostly between **4.0 – 4.5**
-* ⭐ Strong relationship between **reviews and installs**
-* ⭐ High installs do not always mean high ratings
-* ⭐ Category plays a major role in app success
-* ⭐ Large app sizes may reduce downloads
+*  Majority of apps are **free (~90%)**
+*  Ratings are mostly between **4.0 – 4.5**
+*  Strong relationship between **reviews and installs**
+*  High installs do not always mean high ratings
+*  Category plays a major role in app success
+*  Large app sizes may reduce downloads
 
 ---
 
@@ -117,11 +117,11 @@ An interactive **Power BI dashboard** was built to visualize insights and suppor
 ##  Project Structure
 
 ```
-📁 Google-Play-Store-Analysis
- ┣ 📄 cleaned_google_playstore.csv
- ┣ 📄 analysis.ipynb
- ┣ 📄 dashboard.pbix
- ┣ 📄 README.md
+ Google-Play-Store-Analysis
+ ┣  cleaned_google_playstore.csv
+ ┣  analysis.ipynb
+ ┣  dashboard.pbix
+ ┣  README.md
 ```
 
 ---
